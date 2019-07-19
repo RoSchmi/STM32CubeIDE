@@ -125,7 +125,7 @@ int main(void)
 		  	  buffer[3]=0x0;//keycode data
 		  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  	  //HAL_Delay(100);
-		  	  HAL_Delay(100);
+		  	  HAL_Delay(1000);
 		  	  //report keycode data -  PgDwn release
 		  	//End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
@@ -183,7 +183,7 @@ int main(void)
 		  			    buffer[3]=0x0;//keycode data
 		  			  	USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  			  	//HAL_Delay(100);
-		  			  	HAL_Delay(100);
+		  			  	HAL_Delay(1000);
 		  			  //report keycode data -  PgDwn release
 		  			  //End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 	  }

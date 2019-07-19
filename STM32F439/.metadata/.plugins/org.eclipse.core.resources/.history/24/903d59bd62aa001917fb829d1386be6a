@@ -116,7 +116,7 @@ int main(void)
 	  if(HAL_GPIO_ReadPin(GPIOC,GPIO_PIN_13)==GPIO_PIN_SET)
 	  {
 		  // Begin TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release
-
+		       #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
 		  	  //report keycode data - PgDwn press (0x4E)
 		  	  //buffer[3]=0x4E;//keycode data
 		  	  buffer[3]=0x2B;//keycode data									// Tab
@@ -125,65 +125,64 @@ int main(void)
 		  	  buffer[3]=0x0;//keycode data
 		  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  	  //HAL_Delay(100);
-		  	  HAL_Delay(100);
+		  	  HAL_Delay(1000);
 		  	  //report keycode data -  PgDwn release
 		  	//End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
 		  	// Begin TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
-		  	// Sacncodes: https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2
-
 		  			  	  //report keycode data - PgDwn press (0x4E)
 		  			  	  //buffer[3]=0x4E;//keycode data
-		  			  	  buffer[3]=0x32;//keycode data										// #
+		  			  	  buffer[3]=0x32;//keycode data						// #
 		  			  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  			  	  HAL_Delay(100);
 		  			  	  buffer[3]=0x0;//keycode data
 		  			  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  			  	  //HAL_Delay(100);
-		  			  	  HAL_Delay(100);
+		  			  	  HAL_Delay(1000);
 		  			  	  //report keycode data -  PgDwn release
 		  			  	//End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
-
+                        /*
 		  			  	// Begin TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release
+		  			  			       #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
+		  			  			  	  //report keycode data - PgDwn press (0x4E)
+		  			  			  	  //buffer[3]=0x4E;//keycode data
+		  			  			  	  buffer[3]=0x42;//keycode data
+		  			  			  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
+		  			  			  	  HAL_Delay(100);
+		  			  			  	  buffer[3]=0x0;//keycode data
+		  			  			  	  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
+		  			  			  	  //HAL_Delay(100);
+		  			  			  	  HAL_Delay(1000);
+		  			  			  	  //report keycode data -  PgDwn release
+		  			  			  	//End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
-		  			    //report keycode data - PgDwn press (0x4E)
-		  			  	//buffer[3]=0x4E;//keycode data
-		  			  	 buffer[3]=0x0B;//keycode data                                   //  h
-		  			  	 USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
-		  			  	 HAL_Delay(100);
-		  			  	 buffer[3]=0x0;//keycode data
-		  			  	 USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
-		  			  	//HAL_Delay(100);
-		  			  	 HAL_Delay(100);
-		  			  	 //report keycode data -  PgDwn release
-		  			  	 //End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
-
-
+		  			  */
 		  			    // Begin TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
 		  			  	   //report keycode data - PgDwn press (0x4E)
 		  			  	   //buffer[3]=0x4E;//keycode data
-		  			  	   buffer[3]=0x08;//keycode data								// e
+		  			  	   buffer[3]=0x52;//keycode data							//  0
 		  			  	   USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
-				           HAL_Delay(100);
+
+				            HAL_Delay(100);
 						  buffer[3]=0x0;//keycode data
 						  USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 					      //HAL_Delay(100);
-						  HAL_Delay(100);
+						  HAL_Delay(1000);
 						  //report keycode data -  PgDwn release
 						 //End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 						// Begin TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 
 					  //report keycode data - PgDwn press (0x4E)
 		  			  	//buffer[3]=0x4E;//keycode data
-		  			  	buffer[3]=0x0f;//keycode data
+		  			  	buffer[3]=0x53;//keycode data
 		  			  	USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  			  	HAL_Delay(100);
 		  			    buffer[3]=0x0;//keycode data
 		  			  	USBD_HID_SendReport(&hUsbDeviceFS,buffer,8);
 		  			  	//HAL_Delay(100);
-		  			  	HAL_Delay(100);
+		  			  	HAL_Delay(1000);
 		  			  //report keycode data -  PgDwn release
 		  			  //End HID_KEYBOARD_HANDS_ON: Report PgDown press and release
 	  }

@@ -1,35 +1,10 @@
-21:45:20 **** Incremental Build of configuration Debug for project STM32F439_HID_Keyboard ****
+22:34:53 **** Incremental Build of configuration Debug for project STM32F439_HID_Keyboard ****
 make -j4 all 
-arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../Inc -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
-arm-none-eabi-gcc "../Src/usb_device.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../Inc -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/usb_device.d" -MT"Src/usb_device.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/usb_device.o"
-arm-none-eabi-gcc "../Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DDEBUG -DSTM32F429xx -c -I../Inc -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.d" -MT"Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/ST/STM32_USB_Device_Library/Class/HID/Src/usbd_hid.o"
-../Src/main.c: In function 'main':
-../Src/main.c:119:11: warning: #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release" [-Wcpp]
-          #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
-           ^~~~~~~
-../Src/main.c:133:16: warning: #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release" [-Wcpp]
-               #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
-                ^~~~~~~
-../Src/main.c:147:21: warning: #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release" [-Wcpp]
-                    #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
-                     ^~~~~~~
-../Src/main.c:160:35: warning: #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release" [-Wcpp]
-                                  #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
-                                   ^~~~~~~
-../Src/main.c:173:46: warning: #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release" [-Wcpp]
-                                             #warning "TODO 5 HID_KEYBOARD_HANDS_ON: Report PgDown press and release"
-                                              ^~~~~~~
-arm-none-eabi-g++ -o "STM32F439_HID_Keyboard.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32F439_HID_Keyboard.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
-Finished building target: STM32F439_HID_Keyboard.elf
- 
-arm-none-eabi-objdump -h -S  STM32F439_HID_Keyboard.elf  > "STM32F439_HID_Keyboard.list"
 arm-none-eabi-size   STM32F439_HID_Keyboard.elf 
    text	   data	    bss	    dec	    hex	filename
-  30352	    464	   3944	  34760	   87c8	STM32F439_HID_Keyboard.elf
+  30344	    576	   3944	  34864	   8830	STM32F439_HID_Keyboard.elf
 Finished building: default.size.stdout
  
-Finished building: STM32F439_HID_Keyboard.list
- 
 
-21:45:24 Build Finished. 0 errors, 5 warnings. (took 3s.776ms)
+22:34:54 Build Finished. 0 errors, 0 warnings. (took 1s.575ms)
 
