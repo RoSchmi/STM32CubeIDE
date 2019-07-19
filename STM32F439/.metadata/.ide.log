@@ -2,3 +2,1334 @@
 
 
 2019-07-19 17:08:13,112 [INFO] Activator:177 - !SESSION log4j initialized
+2019-07-19 17:37:55,720 [INFO] Activator:176 - 
+
+
+2019-07-19 17:37:55,723 [INFO] Activator:177 - !SESSION log4j initialized
+2019-07-19 17:58:18,587 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.general.runtimelib.1834617701 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:58:18,592 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.toolchain_options.mcu.414763672 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:58:18,596 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.toolchain_options.vendor.480424312 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:58:18,637 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.general.runtimelib.1794821848 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:58:18,640 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.toolchain_options.mcu.297677819 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:58:18,644 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.atollic.truestudio.toolchain_options.vendor.1829518965 uses a null category that is invalid in its context. The option was ignored.
+2019-07-19 17:59:30,540 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-07-19 17:59:30,555 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-07-19 17:59:30,559 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-07-19 17:59:30,560 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:30,560 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:30,562 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-07-19 17:59:30,576 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:30,577 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:30,579 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:30,579 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:30,580 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:30,641 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-07-19 17:59:30,743 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-07-19 17:59:31,029 [INFO] MicroXplorer:521 - Detected Java Version = 1.8.0_202
+2019-07-19 17:59:31,030 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-07-19 17:59:31,030 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-07-19 17:59:31,032 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:31,032 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:31,033 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-07-19 17:59:31,033 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,034 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,034 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,035 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,035 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,036 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,036 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,037 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,037 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,038 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,038 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,038 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,039 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-07-19 17:59:31,206 [INFO] MainPanel:211 - HeapMemory: 334495744
+2019-07-19 17:59:31,293 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/
+2019-07-19 17:59:31,293 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/boardmanager/
+2019-07-19 17:59:31,294 [INFO] DbMcus:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:31,294 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/images/
+2019-07-19 17:59:31,294 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/plugins/mcufinder/mcu/
+2019-07-19 17:59:31,295 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,295 [INFO] DbMcusAds:72 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,295 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,296 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,296 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,296 [INFO] DbMcusJson:59 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,296 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,297 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,297 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,297 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/
+2019-07-19 17:59:31,297 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,298 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\Roland\.stmcufinder\plugins\mcufinder/ => C:\Users\Roland\.stmcufinder\plugins\mcufinder
+2019-07-19 17:59:31,298 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\Roland\.stmcufinder\plugins\mcufinder//mcu/cs/
+2019-07-19 17:59:31,340 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-07-19 17:59:31,342 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2019-07-19 17:59:31,344 [INFO] PluginManage:292 - Check plugin analytics
+2019-07-19 17:59:31,396 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2019-07-19 17:59:31,396 [INFO] PluginManage:292 - Check plugin clock
+2019-07-19 17:59:31,411 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2019-07-19 17:59:31,412 [INFO] PluginManage:292 - Check plugin ddr
+2019-07-19 17:59:31,415 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2019-07-19 17:59:31,416 [INFO] PluginManage:292 - Check plugin filemanager
+2019-07-19 17:59:31,533 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2019-07-19 17:59:31,533 [INFO] PluginManage:292 - Check plugin ipmanager
+2019-07-19 17:59:31,566 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2019-07-19 17:59:31,567 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2019-07-19 17:59:31,706 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2019-07-19 17:59:31,706 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2019-07-19 17:59:31,841 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2019-07-19 17:59:31,842 [INFO] PluginManage:292 - Check plugin power
+2019-07-19 17:59:31,926 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2019-07-19 17:59:31,926 [INFO] PluginManage:292 - Check plugin projectmanager
+2019-07-19 17:59:31,939 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2019-07-19 17:59:31,940 [INFO] PluginManage:292 - Check plugin thirdparty
+2019-07-19 17:59:31,987 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Roland/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 15 ms. number of Sw pack : 10
+2019-07-19 17:59:32,015 [ERROR] BinarySerializedPackPreferences:182 - ClassNotFoundException [Ljava.lang.StackTraceElement;@6554f841
+2019-07-19 17:59:32,016 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2019-07-19 17:59:32,016 [INFO] PluginManage:292 - Check plugin tools
+2019-07-19 17:59:32,026 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2019-07-19 17:59:32,026 [INFO] PluginManage:292 - Check plugin updater
+2019-07-19 17:59:32,039 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2019-07-19 17:59:32,039 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2019-07-19 17:59:32,433 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 17:59:32,666 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,667 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2019-07-19 17:59:32,677 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,677 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2019-07-19 17:59:32,688 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,689 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2019-07-19 17:59:32,696 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,697 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2019-07-19 17:59:32,706 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,707 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2019-07-19 17:59:32,717 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,717 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2019-07-19 17:59:32,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,742 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2019-07-19 17:59:32,750 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,750 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2019-07-19 17:59:32,763 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,764 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2019-07-19 17:59:32,872 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,873 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2019-07-19 17:59:32,882 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,882 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2019-07-19 17:59:32,901 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,902 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2019-07-19 17:59:32,928 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,928 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2019-07-19 17:59:32,956 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:32,956 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2019-07-19 17:59:33,001 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,002 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2019-07-19 17:59:33,011 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,011 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2019-07-19 17:59:33,025 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,025 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2019-07-19 17:59:33,036 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,037 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2019-07-19 17:59:33,056 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,056 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2019-07-19 17:59:33,067 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,067 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2019-07-19 17:59:33,095 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,095 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2019-07-19 17:59:33,137 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,137 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2019-07-19 17:59:33,147 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,148 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2019-07-19 17:59:33,160 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,160 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2019-07-19 17:59:33,205 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,208 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2019-07-19 17:59:33,216 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,216 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2019-07-19 17:59:33,224 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,225 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2019-07-19 17:59:33,237 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,237 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2019-07-19 17:59:33,249 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,249 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2019-07-19 17:59:33,259 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,260 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2019-07-19 17:59:33,268 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,268 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2019-07-19 17:59:33,282 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,283 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2019-07-19 17:59:33,295 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,296 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2019-07-19 17:59:33,304 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,304 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2019-07-19 17:59:33,312 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,312 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2019-07-19 17:59:33,321 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,321 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2019-07-19 17:59:33,333 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:33,333 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2019-07-19 17:59:33,940 [INFO] BoardConnectionPanel:217 - [DDR PANEL] osNameString: Windows
+2019-07-19 17:59:34,329 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-07-19 17:59:34,911 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-07-19 17:59:34,924 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 17:59:34,925 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-07-19 17:59:34,929 [INFO] MainDdrPanel:82 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.0.0.201904021149\tools\bin
+2019-07-19 17:59:34,951 [INFO] Updater:860 - Updater Version found : 5.3.0
+2019-07-19 17:59:34,963 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-07-19 17:59:34,999 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-07-19 17:59:34,999 [ERROR] IntegrityCheckThread:230 - Cannot obtain thirdParties list 21
+2019-07-19 17:59:35,000 [ERROR] IntegrityCheckThread:99 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2019-07-19 17:59:35,000 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/Roland/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-07-19 17:59:35,022 [INFO] MainUpdater:445 - Copy updater definitions from MX database
+2019-07-19 17:59:35,234 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 17:59:35,235 [INFO] MainUpdater:2607 - Updater definition file requires update
+2019-07-19 17:59:35,236 [INFO] MainUpdater:229 - Updater Check For Update Now.
+2019-07-19 17:59:35,237 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 17:59:35,620 [INFO] ServerAccessManage:347 - Download File updaters.zip
+2019-07-19 17:59:35,635 [INFO] FileExtend:191 - Unzip File : updaters.zip
+2019-07-19 17:59:35,635 [INFO] FileExtend:206 - Standard Zip Deflate
+2019-07-19 17:59:36,192 [INFO] FileExtend:191 - Unzip File : updaters.zip
+2019-07-19 17:59:36,193 [INFO] FileExtend:206 - Standard Zip Deflate
+2019-07-19 17:59:36,490 [INFO] ServerAccessManage:347 - Download File PacksControlFlags.xml
+2019-07-19 17:59:36,583 [INFO] ServerAccessManage:347 - Download File cubemx.pidx
+2019-07-19 17:59:36,655 [INFO] LoadServerUpdatesThread:272 - End of LoadServerUpdate Thread
+2019-07-19 17:59:36,684 [INFO] CheckServerUpdateThread:121 - End of CheckServer Thread
+2019-07-19 17:59:36,864 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 17:59:36,865 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-07-19 17:59:37,031 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 17:59:37,031 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 17:59:37,034 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 17:59:37,035 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 123470520 Bytes (628097024)
+2019-07-19 17:59:42,410 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 17:59:42,414 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 17:59:42,414 [INFO] OpenFileManager:269 - Change cursor
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule SPDIFRX instance for mcu is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule Rename Tracer Mode is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule SPDIFRX instance for signal is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule SPDIFRX instance for project manager is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule SPDIFRX instance for project manager is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule ADC Scan  fix with FW F7 is applicable
+2019-07-19 17:59:45,100 [INFO] Rule:205 - rule ADC Scan  fix with FW F7 is applicable
+2019-07-19 17:59:45,101 [INFO] Rule:205 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2019-07-19 17:59:45,101 [INFO] Rule:205 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2019-07-19 17:59:45,101 [INFO] Rule:205 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2019-07-19 17:59:45,101 [INFO] Rule:205 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2019-07-19 17:59:45,101 [INFO] Rule:205 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule USART TxPinLevelInvertParam Mode is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule USART RxPinLevelInvertParam Mode is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule USART DataInvertParam Mode is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule USART SwapParam Mode is applicable
+2019-07-19 17:59:45,102 [INFO] Rule:205 - rule USART OverrunDisableParam Mode is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule USART DMADisableonRxErrorParam Mode is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule USART MSBFirstParam Mode is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule Update MwName for USB_DEVICE is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule TIM1CLockSelection is applicable
+2019-07-19 17:59:45,103 [INFO] Rule:205 - rule TIM15CLockSelection is applicable
+2019-07-19 17:59:45,108 [INFO] DbConfProperties:222 - Apply Compatibility (17/31 Rules)
+2019-07-19 17:59:45,171 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2019-07-19 17:59:45,172 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2019-07-19 17:59:45,623 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 158919168 Bytes (628097024)
+2019-07-19 17:59:45,632 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/Roland/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 3 ms. number of Sw pack : 10
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.2.0
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 5.2.1
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.3.0
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.1.0
+2019-07-19 17:59:45,720 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.4.0
+2019-07-19 17:59:45,721 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.0
+2019-07-19 17:59:45,721 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-07-19 17:59:45,721 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-07-19 17:59:45,721 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-07-19 17:59:46,077 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 17:59:46,079 [INFO] PinOutPanel:1367 - setPackage(STM32F446ZETx,LQFP144)
+2019-07-19 17:59:46,561 [INFO] UtilMem:74 - Before build in PCC Used Memory: 284167504 Bytes (628097024)
+2019-07-19 17:59:46,936 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Roland/.stm32cubemx/plugins/power
+2019-07-19 17:59:46,937 [INFO] UtilMem:74 - After build in PCC Used Memory: 299896144 Bytes (628097024)
+2019-07-19 17:59:46,945 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 17:59:46,945 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,945 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,946 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,948 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,949 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,950 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,950 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,950 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,950 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,951 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,951 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,951 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,951 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,952 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,952 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,952 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,952 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,952 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,953 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,953 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,953 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,953 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,953 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,954 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,954 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,954 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,955 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,955 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,956 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,956 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,956 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,956 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,957 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,957 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,957 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,957 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,958 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,958 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,959 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,959 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,959 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,960 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 17:59:46,966 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 17:59:46,978 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-07-19 17:59:46,981 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:46,982 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,062 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,063 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,065 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,066 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,067 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,077 [INFO] OpenFileManager:289 - Restore cursor
+2019-07-19 17:59:47,081 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/families.xml
+2019-07-19 17:59:47,085 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,086 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,088 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,089 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,090 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,091 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,212 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 17:59:47,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,229 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,231 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,232 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,233 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 17:59:47,234 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 17:59:47,351 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 17:59:47,954 [INFO] DbMcusJson:87 - JSON generation date=Fri Jun 21 12:28:09 CEST 2019 (1561112889)
+2019-07-19 17:59:48,668 [INFO] DbMcus:193 - Found 1496 MCUs (1455 are supported by CubeMX, 1455 are visible in CubeMX)
+2019-07-19 17:59:48,671 [INFO] ApiDb:158 - Load user favorites file C:\Users\Roland/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2019-07-19 17:59:48,671 [INFO] ApiDb:163 - User favorites MCUs=[]
+2019-07-19 17:59:48,671 [INFO] DbMcus:205 - Set 0 / 0 favorites MCUs
+2019-07-19 18:00:24,998 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:00:25,090 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:02:02,748 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:03:18,511 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 18:03:18,511 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-07-19 18:03:18,575 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2019-07-19 18:03:18,587 [INFO] FinderPluginLoader:85 - Searching for filters in installed packs
+2019-07-19 18:03:19,255 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 17:46:15 CET 2019 (1550681175)
+2019-07-19 18:03:19,257 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-07-19 18:03:19,272 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/Roland/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-07-19 18:03:20,692 [INFO] ServerAccessManage:347 - Download File mcusDocs.json
+2019-07-19 18:03:20,742 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:29,186 [INFO] ServerAccessManage:347 - Download File mcusFeaturesAndDescription.json
+2019-07-19 18:03:29,667 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:29,768 [INFO] ServerAccessManage:347 - Download File mcusAds.json
+2019-07-19 18:03:29,788 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:31,260 [INFO] ServerAccessManage:347 - Download File boardsDocs.json
+2019-07-19 18:03:31,302 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:31,754 [INFO] ServerAccessManage:347 - Download File boards.json
+2019-07-19 18:03:31,796 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:32,060 [INFO] ServerAccessManage:347 - Download File crdb.zip
+2019-07-19 18:03:32,075 [INFO] FileExtend:191 - Unzip File : crdb.zip
+2019-07-19 18:03:32,076 [INFO] FileExtend:206 - Standard Zip Deflate
+2019-07-19 18:03:32,110 [INFO] LoadUrlFilesThread:129 - End of LoadUrlFiles Thread
+2019-07-19 18:03:32,119 [INFO] DbMcusDocs:126 - JSON generation date=Fri Jul 19 12:04:23 CEST 2019 (1563530663)
+2019-07-19 18:03:32,321 [INFO] DbMcusDocs:61 - Found 503 MCUs documents
+2019-07-19 18:03:32,322 [INFO] ApiDb:186 - Save user favorites file C:\Users\Roland/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2019-07-19 18:03:32,323 [INFO] ApiDb:191 - User favorites MCUs=[]
+2019-07-19 18:03:32,323 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\/mcu/families.xml
+2019-07-19 18:03:32,640 [INFO] DbMcusJson:87 - JSON generation date=Fri Jul 19 12:04:23 CEST 2019 (1563530663)
+2019-07-19 18:03:33,379 [INFO] DbMcus:193 - Found 1496 MCUs (1455 are supported by CubeMX, 1455 are visible in CubeMX)
+2019-07-19 18:03:33,380 [INFO] ApiDb:158 - Load user favorites file C:\Users\Roland/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2019-07-19 18:03:33,380 [INFO] ApiDb:163 - User favorites MCUs=[]
+2019-07-19 18:03:33,380 [INFO] DbMcus:205 - Set 0 / 0 favorites MCUs
+2019-07-19 18:03:33,427 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2019-07-19 18:03:33,608 [INFO] DbBoardsDocs:118 - JSON generation date=Fri Jul 19 12:04:23 CEST 2019 (1563530663)
+2019-07-19 18:03:33,626 [INFO] DbBoardsPdsc:92 - Found 18 items
+2019-07-19 18:03:33,631 [INFO] DbBoardsPdsc:92 - Found 9 items
+2019-07-19 18:03:33,638 [INFO] DbBoardsPdsc:92 - Found 27 items
+2019-07-19 18:03:33,643 [INFO] DbBoardsPdsc:92 - Found 1 items
+2019-07-19 18:03:33,651 [INFO] DbBoardsPdsc:92 - Found 37 items
+2019-07-19 18:03:33,662 [INFO] DbBoardsPdsc:92 - Found 37 items
+2019-07-19 18:03:33,669 [INFO] DbBoardsPdsc:92 - Found 1 items
+2019-07-19 18:03:33,683 [INFO] DbBoardsJson:79 - JSON generation date=Thu Jul 04 16:02:38 CEST 2019 (1562248958)
+2019-07-19 18:03:33,689 [INFO] DbBoards:120 - Found 130 boards (129 are supported by CubeMX)
+2019-07-19 18:03:33,691 [INFO] DbBoardsDocs:118 - JSON generation date=Fri Jul 19 12:04:23 CEST 2019 (1563530663)
+2019-07-19 18:03:33,695 [INFO] DbBoardsDocs:57 - Found 151 boards documents
+2019-07-19 18:03:33,696 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2019-07-19 18:03:33,697 [WARN] DbBoards:130 - board NUCLEO-G031K8 has no document id list !
+2019-07-19 18:03:33,697 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2019-07-19 18:03:33,697 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2019-07-19 18:03:33,698 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2019-07-19 18:03:33,698 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2019-07-19 18:03:33,698 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2019-07-19 18:03:33,698 [WARN] DbBoards:130 - board B-G474E-DPOW1 has no document id list !
+2019-07-19 18:03:33,699 [WARN] DbBoards:130 - board STM32F7308-DISCO has no document id list !
+2019-07-19 18:03:33,699 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2019-07-19 18:03:33,699 [WARN] DbBoards:130 - board STM32G0316-DISCO has no document id list !
+2019-07-19 18:03:33,699 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2019-07-19 18:03:33,700 [WARN] DbBoards:130 - board STM32H747I-EVAL has no document id list !
+2019-07-19 18:03:33,701 [WARN] DbBoards:130 - board STM32H757I-EVAL has no document id list !
+2019-07-19 18:03:33,701 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2019-07-19 18:03:33,701 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2019-07-19 18:03:34,609 [INFO] ApiDb:158 - Load user favorites file C:\Users\Roland/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2019-07-19 18:03:34,609 [INFO] ApiDb:163 - User favorites Boards=[]
+2019-07-19 18:03:34,609 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2019-07-19 18:03:34,611 [INFO] DbBoardsDocs:57 - Found 302 boards documents
+2019-07-19 18:03:34,612 [INFO] ApiDb:186 - Save user favorites file C:\Users\Roland/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2019-07-19 18:03:34,612 [INFO] ApiDb:191 - User favorites Boards=[]
+2019-07-19 18:03:34,615 [INFO] DbBoardsPdsc:92 - Found 18 items
+2019-07-19 18:03:34,616 [INFO] DbBoardsPdsc:92 - Found 9 items
+2019-07-19 18:03:34,618 [INFO] DbBoardsPdsc:92 - Found 27 items
+2019-07-19 18:03:34,620 [INFO] DbBoardsPdsc:92 - Found 1 items
+2019-07-19 18:03:34,623 [INFO] DbBoardsPdsc:92 - Found 37 items
+2019-07-19 18:03:34,627 [INFO] DbBoardsPdsc:92 - Found 37 items
+2019-07-19 18:03:34,628 [INFO] DbBoardsPdsc:92 - Found 1 items
+2019-07-19 18:03:34,640 [INFO] DbBoardsJson:79 - JSON generation date=Thu Jul 04 16:02:38 CEST 2019 (1562248958)
+2019-07-19 18:03:34,644 [INFO] DbBoards:120 - Found 130 boards (129 are supported by CubeMX)
+2019-07-19 18:03:34,645 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2019-07-19 18:03:34,645 [WARN] DbBoards:130 - board NUCLEO-G031K8 has no document id list !
+2019-07-19 18:03:34,646 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2019-07-19 18:03:34,646 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2019-07-19 18:03:34,646 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2019-07-19 18:03:34,647 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2019-07-19 18:03:34,647 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2019-07-19 18:03:34,647 [WARN] DbBoards:130 - board B-G474E-DPOW1 has no document id list !
+2019-07-19 18:03:34,647 [WARN] DbBoards:130 - board STM32F7308-DISCO has no document id list !
+2019-07-19 18:03:34,647 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32G0316-DISCO has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2019-07-19 18:03:34,648 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2019-07-19 18:03:34,649 [WARN] DbBoards:130 - board STM32H747I-EVAL has no document id list !
+2019-07-19 18:03:34,649 [WARN] DbBoards:130 - board STM32H757I-EVAL has no document id list !
+2019-07-19 18:03:34,649 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2019-07-19 18:03:34,649 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2019-07-19 18:03:35,096 [INFO] ApiDb:158 - Load user favorites file C:\Users\Roland/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2019-07-19 18:03:35,097 [INFO] ApiDb:163 - User favorites Boards=[]
+2019-07-19 18:03:35,097 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2019-07-19 18:03:35,213 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-07-19 18:03:35,215 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2019-07-19 18:03:35,371 [INFO] LoadUrlFilesThread:147 - End of LoadServerUrlFiles without Thread
+2019-07-19 18:03:35,372 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/Roland/STM32Cube/Repository/\PRSTM32MP10219-01-med.jpg
+2019-07-19 18:03:35,388 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2019-07-19 18:03:35,867 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\Roland\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2019-07-19 18:05:01,008 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2019-07-19 18:05:01,009 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2019-07-19 18:05:03,892 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2019-07-19 18:05:13,443 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 354357008 Bytes (654311424)
+2019-07-19 18:05:13,446 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:13,447 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:13,448 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:13,450 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:13,451 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:13,462 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:20,684 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 363456760 Bytes (654311424)
+2019-07-19 18:05:20,690 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:20,692 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:20,693 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:20,694 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:20,696 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:20,697 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:21,077 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_DEVICE
+2019-07-19 18:05:21,077 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-07-19 18:05:21,077 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-07-19 18:05:21,077 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_OTG_FS
+2019-07-19 18:05:21,077 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-07-19 18:05:21,089 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-07-19 18:05:21,340 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\license.tmp_save
+2019-07-19 18:05:21,697 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\license.tmp
+2019-07-19 18:05:21,834 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\gpio.tmp_save
+2019-07-19 18:05:21,929 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\gpio.tmp
+2019-07-19 18:05:21,934 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:21,979 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2019-07-19 18:05:22,054 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_vars.tmp
+2019-07-19 18:05:22,067 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2019-07-19 18:05:22,142 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_inc.tmp
+2019-07-19 18:05:22,169 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2019-07-19 18:05:22,274 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2019-07-19 18:05:22,297 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2019-07-19 18:05:22,398 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\usb_otg_fs_Msp.tmp
+2019-07-19 18:05:22,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:22,470 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-07-19 18:05:22,470 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:22,472 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:22,488 [INFO] ApiDbMcu:444 - Load IP Config File for USB_DEVICE
+2019-07-19 18:05:22,505 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-07-19 18:05:22,525 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usb_device.c_save
+2019-07-19 18:05:22,729 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usb_device.c
+2019-07-19 18:05:22,760 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usb_device.h_save
+2019-07-19 18:05:22,893 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usb_device.h
+2019-07-19 18:05:22,921 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usbd_conf.h_save
+2019-07-19 18:05:23,088 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usbd_conf.h
+2019-07-19 18:05:23,105 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usbd_conf.c_save
+2019-07-19 18:05:23,216 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usbd_conf.c
+2019-07-19 18:05:23,244 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usbd_desc.h_save
+2019-07-19 18:05:23,337 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\usbd_desc.h
+2019-07-19 18:05:23,362 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usbd_desc.c_save
+2019-07-19 18:05:23,451 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\usbd_desc.c
+2019-07-19 18:05:23,456 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-07-19 18:05:23,457 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:23,473 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\stm32f4xx_it.c_save
+2019-07-19 18:05:23,594 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\stm32f4xx_it.c
+2019-07-19 18:05:23,612 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\stm32f4xx_it.h_save
+2019-07-19 18:05:23,675 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\stm32f4xx_it.h
+2019-07-19 18:05:23,700 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\stm32f4xx_hal_msp.c_save
+2019-07-19 18:05:23,803 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\stm32f4xx_hal_msp.c
+2019-07-19 18:05:23,820 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\system.tmp_save
+2019-07-19 18:05:23,872 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\MXTmpFiles\system.tmp
+2019-07-19 18:05:23,900 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\stm32f4xx_hal_conf.h_save
+2019-07-19 18:05:23,984 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\stm32f4xx_hal_conf.h
+2019-07-19 18:05:24,013 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-07-19 18:05:24,015 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-07-19 18:05:24,031 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\main.h_save
+2019-07-19 18:05:24,129 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Inc\main.h
+2019-07-19 18:05:24,146 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\main.c_save
+2019-07-19 18:05:24,270 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\HID_Keyboard_Device\Src\main.c
+2019-07-19 18:05:25,371 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 632mS.
+2019-07-19 18:05:25,377 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-07-19 18:05:25,571 [INFO] ConfigFileManager:879 - The Die is : DIE421
+2019-07-19 18:05:25,577 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-07-19 18:05:25,661 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-07-19 18:05:25,663 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="512"
+2019-07-19 18:05:25,983 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-07-19 18:05:25,984 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-07-19 18:05:33,631 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 8254mS.
+2019-07-19 18:05:33,633 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-07-19 18:05:33,639 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-07-19 18:05:34,151 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:05:34,381 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 18:05:34,382 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-07-19 18:05:34,422 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 18:05:34,422 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 18:05:34,424 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 18:05:34,428 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 388662144 Bytes (677380096)
+2019-07-19 18:05:34,453 [INFO] OpenFileManager:269 - Change cursor
+2019-07-19 18:05:34,462 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule SPDIFRX instance for mcu is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule Rename Tracer Mode is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule SPDIFRX instance for signal is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule SPDIFRX instance for project manager is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule SPDIFRX instance for project manager is applicable
+2019-07-19 18:05:37,731 [INFO] Rule:205 - rule ADC Scan  fix with FW F7 is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule ADC Scan  fix with FW F7 is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2019-07-19 18:05:37,732 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2019-07-19 18:05:37,733 [INFO] Rule:205 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule TimeTriggeredMode to TTCM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN AutoBusOff to ABOM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN AutoRetransmission to NART is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2019-07-19 18:05:37,734 [INFO] Rule:205 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2019-07-19 18:05:37,735 [INFO] Rule:205 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule USART TxPinLevelInvertParam Mode is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule USART RxPinLevelInvertParam Mode is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule USART DataInvertParam Mode is applicable
+2019-07-19 18:05:37,736 [INFO] Rule:205 - rule USART SwapParam Mode is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule USART OverrunDisableParam Mode is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule USART DMADisableonRxErrorParam Mode is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule USART MSBFirstParam Mode is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule Update MwName for USB_DEVICE is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule TIM1CLockSelection is applicable
+2019-07-19 18:05:37,737 [INFO] Rule:205 - rule TIM15CLockSelection is applicable
+2019-07-19 18:05:37,747 [INFO] DbConfProperties:222 - Apply Compatibility (27/78 Rules)
+2019-07-19 18:05:37,763 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2019-07-19 18:05:37,797 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC12outputFreq_Value)
+2019-07-19 18:05:37,797 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC34outputFreq_Value)
+2019-07-19 18:05:37,797 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2019-07-19 18:05:37,797 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C1Freq_Value)
+2019-07-19 18:05:37,797 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C2Freq_Value)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C3Freq_Value)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (MCOFreq_Value)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMCOFreq_Value)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMUL)
+2019-07-19 18:05:37,798 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PRESCALERUSB)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (SYSCLKSourceVirtual)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM15Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM16Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM17Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM1Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM20Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM2Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM3Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM8Freq_Value)
+2019-07-19 18:05:37,799 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART4Freq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART5Freq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART1Freq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART2Freq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART3Freq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USBFreq_Value)
+2019-07-19 18:05:37,800 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOOutput2Freq_Value)
+2019-07-19 18:05:38,208 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 433642080 Bytes (677380096)
+2019-07-19 18:05:38,234 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.2.0
+2019-07-19 18:05:38,234 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 5.2.1
+2019-07-19 18:05:38,234 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.3.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.1.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.4.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-07-19 18:05:38,235 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-07-19 18:05:38,402 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 18:05:38,403 [INFO] PinOutPanel:1367 - setPackage(STM32F429ZITx,LQFP144)
+2019-07-19 18:05:38,633 [INFO] UtilMem:74 - Before build in PCC Used Memory: 556125000 Bytes (677380096)
+2019-07-19 18:05:38,732 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Roland/.stm32cubemx/plugins/power
+2019-07-19 18:05:38,732 [INFO] UtilMem:74 - After build in PCC Used Memory: 563465032 Bytes (677380096)
+2019-07-19 18:05:38,737 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:05:38,737 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,738 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,739 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,740 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,741 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,743 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,743 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,743 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,744 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,745 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,746 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,747 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:05:38,754 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:05:38,763 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,764 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,766 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,769 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,783 [INFO] OpenFileManager:289 - Restore cursor
+2019-07-19 18:05:38,787 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,788 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,789 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,790 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,791 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,793 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,939 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:05:38,949 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,950 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,951 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,952 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,953 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:38,954 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:38,965 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:05:39,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,109 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,111 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,112 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,113 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,114 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,126 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 406772816 Bytes (677380096)
+2019-07-19 18:05:39,128 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,129 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,130 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,132 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,134 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,163 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 411421512 Bytes (677380096)
+2019-07-19 18:05:39,165 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,167 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,168 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,169 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,170 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:05:39,170 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:05:39,295 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-07-19 18:05:39,295 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-07-19 18:05:39,296 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_OTG_FS
+2019-07-19 18:05:39,296 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-07-19 18:05:39,296 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-07-19 18:05:39,296 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: ETH
+2019-07-19 18:05:39,298 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-07-19 18:05:39,468 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp_save
+2019-07-19 18:05:39,530 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp
+2019-07-19 18:05:39,580 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\gpio.tmp_save
+2019-07-19 18:05:39,642 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\gpio.tmp
+2019-07-19 18:05:39,837 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:39,838 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ETH
+2019-07-19 18:05:39,838 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:39,840 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:39,840 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-07-19 18:05:39,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:39,842 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:39,843 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-07-19 18:05:39,843 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:39,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:05:39,845 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USB_OTG
+2019-07-19 18:05:39,846 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:39,847 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-07-19 18:05:39,848 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:05:39,854 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c_save
+2019-07-19 18:05:39,925 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c
+2019-07-19 18:05:39,933 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h_save
+2019-07-19 18:05:39,994 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h
+2019-07-19 18:05:40,005 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c_save
+2019-07-19 18:05:40,107 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c
+2019-07-19 18:05:40,115 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp_save
+2019-07-19 18:05:40,167 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp
+2019-07-19 18:05:40,176 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h_save
+2019-07-19 18:05:40,253 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h
+2019-07-19 18:05:40,266 [WARN] IPConfigManager:2562 - IP not found : USB_OTG
+2019-07-19 18:05:40,267 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-07-19 18:05:40,268 [WARN] CodeGenerator:2617 - IP not found : USB_OTG
+2019-07-19 18:05:40,268 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-07-19 18:05:40,274 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h_save
+2019-07-19 18:05:40,360 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h
+2019-07-19 18:05:40,370 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c_save
+2019-07-19 18:05:40,470 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c
+2019-07-19 18:05:41,127 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 174mS.
+2019-07-19 18:05:41,131 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-07-19 18:05:41,313 [INFO] ConfigFileManager:879 - The Die is : DIE419
+2019-07-19 18:05:41,318 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-07-19 18:05:41,599 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="192"
+2019-07-19 18:05:41,600 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-07-19 18:05:41,601 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="2048"
+2019-07-19 18:05:41,871 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-07-19 18:05:41,875 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-07-19 18:05:46,177 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 5046mS.
+2019-07-19 18:05:46,182 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 4mS.
+2019-07-19 18:05:46,186 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-07-19 18:06:11,666 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:11,699 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:16,798 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:16,830 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:16,838 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:16,840 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:16,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:16,842 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:06:16,843 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:06:16,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:16,874 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:16,906 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:16,926 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:17,880 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:17,913 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:17,919 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:17,920 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:17,921 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:17,922 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:06:17,923 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:06:17,924 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:06:17,946 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:17,981 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:17,989 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:24,286 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:06:55,664 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:06:55,716 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:07:43,490 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:08:06,725 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:08:06,733 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:08:06,735 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:08:06,735 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:08:06,736 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:08:06,737 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:08:06,738 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:08:06,757 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:08:06,786 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:08:29,456 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2019-07-19 18:08:34,179 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Project Manager
+2019-07-19 18:09:13,865 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 362160280 Bytes (914358272)
+2019-07-19 18:09:13,867 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:09:13,867 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:09:13,868 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:09:13,869 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:09:13,870 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:09:13,871 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:09:13,984 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_DEVICE
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: GFXSimulator
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_OTG_FS
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-07-19 18:09:13,985 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: ETH
+2019-07-19 18:09:13,987 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-07-19 18:09:14,114 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp_save
+2019-07-19 18:09:14,166 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp
+2019-07-19 18:09:14,197 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\gpio.c_save
+2019-07-19 18:09:14,279 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\gpio.c
+2019-07-19 18:09:14,294 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\gpio.h_save
+2019-07-19 18:09:14,364 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\gpio.h
+2019-07-19 18:09:14,369 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:09:14,396 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2019-07-19 18:09:14,445 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_vars.tmp
+2019-07-19 18:09:14,453 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2019-07-19 18:09:14,503 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_inc.tmp
+2019-07-19 18:09:14,512 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2019-07-19 18:09:14,573 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2019-07-19 18:09:14,582 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2019-07-19 18:09:14,651 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_Msp.tmp
+2019-07-19 18:09:14,740 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:09:14,741 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ETH
+2019-07-19 18:09:14,741 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:09:14,756 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\eth.c_save
+2019-07-19 18:09:14,849 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\eth.c
+2019-07-19 18:09:14,864 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\eth.h_save
+2019-07-19 18:09:14,935 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\eth.h
+2019-07-19 18:09:14,938 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:09:14,939 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-07-19 18:09:14,939 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:09:14,940 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:09:14,941 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-07-19 18:09:14,942 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:09:14,949 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usart.c_save
+2019-07-19 18:09:15,047 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usart.c
+2019-07-19 18:09:15,055 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usart.h_save
+2019-07-19 18:09:15,130 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usart.h
+2019-07-19 18:09:15,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 18:09:15,141 [INFO] ApiDbMcu:444 - Load IP Config File for USB_DEVICE
+2019-07-19 18:09:15,154 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-07-19 18:09:15,162 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usb_device.c_save
+2019-07-19 18:09:15,223 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usb_device.c
+2019-07-19 18:09:15,231 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usb_device.h_save
+2019-07-19 18:09:15,284 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usb_device.h
+2019-07-19 18:09:15,292 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_conf.h_save
+2019-07-19 18:09:15,358 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_conf.h
+2019-07-19 18:09:15,371 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_conf.c_save
+2019-07-19 18:09:15,445 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_conf.c
+2019-07-19 18:09:15,454 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_desc.h_save
+2019-07-19 18:09:15,507 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_desc.h
+2019-07-19 18:09:15,515 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_desc.c_save
+2019-07-19 18:09:15,582 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_desc.c
+2019-07-19 18:09:15,585 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-07-19 18:09:15,585 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 18:09:15,595 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c_save
+2019-07-19 18:09:15,723 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c
+2019-07-19 18:09:15,733 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h_save
+2019-07-19 18:09:15,795 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h
+2019-07-19 18:09:15,808 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c_save
+2019-07-19 18:09:15,948 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c
+2019-07-19 18:09:15,957 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp_save
+2019-07-19 18:09:16,003 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp
+2019-07-19 18:09:16,013 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h_save
+2019-07-19 18:09:16,077 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h
+2019-07-19 18:09:16,096 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h_save
+2019-07-19 18:09:16,174 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h
+2019-07-19 18:09:16,186 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c_save
+2019-07-19 18:09:16,276 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c
+2019-07-19 18:09:16,782 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 193mS.
+2019-07-19 18:09:16,785 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-07-19 18:09:16,960 [INFO] ConfigFileManager:879 - The Die is : DIE419
+2019-07-19 18:09:16,965 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-07-19 18:09:17,050 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="192"
+2019-07-19 18:09:17,051 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-07-19 18:09:17,052 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="2048"
+2019-07-19 18:09:17,160 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-07-19 18:09:17,160 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-07-19 18:09:18,151 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 1366mS.
+2019-07-19 18:09:18,155 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 4mS.
+2019-07-19 18:09:18,162 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-07-19 18:34:09,437 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:09,614 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 18:34:09,615 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-07-19 18:34:09,701 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 18:34:09,701 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 18:34:09,703 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 18:34:09,709 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 481737536 Bytes (687865856)
+2019-07-19 18:34:09,712 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 18:34:09,712 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 18:34:09,712 [INFO] OpenFileManager:269 - Change cursor
+2019-07-19 18:34:09,727 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-07-19 18:34:11,591 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2019-07-19 18:34:11,592 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2019-07-19 18:34:11,912 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 348407432 Bytes (687865856)
+2019-07-19 18:34:11,928 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.2.0
+2019-07-19 18:34:11,928 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 5.2.1
+2019-07-19 18:34:11,928 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.3.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.1.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.4.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-07-19 18:34:11,929 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-07-19 18:34:12,051 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 18:34:12,056 [INFO] PinOutPanel:1367 - setPackage(STM32F446ZETx,LQFP144)
+2019-07-19 18:34:12,268 [INFO] UtilMem:74 - Before build in PCC Used Memory: 447963616 Bytes (687865856)
+2019-07-19 18:34:12,359 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Roland/.stm32cubemx/plugins/power
+2019-07-19 18:34:12,359 [INFO] UtilMem:74 - After build in PCC Used Memory: 456892904 Bytes (687865856)
+2019-07-19 18:34:12,364 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,368 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,369 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,370 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,370 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,370 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,370 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,370 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,371 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,372 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 18:34:12,374 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:12,382 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,383 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,384 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,385 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,386 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,388 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,400 [INFO] OpenFileManager:289 - Restore cursor
+2019-07-19 18:34:12,405 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,406 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,407 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,408 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,460 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:12,468 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,470 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,471 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,472 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 18:34:12,473 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 18:34:12,485 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:19,828 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:52,667 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:55,052 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:57,611 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 18:34:57,637 [INFO] NvicIntPanel:85 - NVIC parent = javax.swing.JTabbedPane[,0,0,0x0,invalid,layout=com.st.microxplorer.stobjectsui.STTabbedPaneUI$TabbedPaneLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=352,maximumSize=,minimumSize=,preferredSize=,haveRegistered=false,tabPlacement=TOP]
+2019-07-19 18:35:02,177 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:22,717 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:22,915 [INFO] MainUpdater:2040 - connection check result : 10
+2019-07-19 19:12:22,916 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-07-19 19:12:22,989 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 19:12:22,989 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 19:12:22,991 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 19:12:22,994 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 468311864 Bytes (687865856)
+2019-07-19 19:12:22,995 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-07-19 19:12:22,995 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-07-19 19:12:22,996 [INFO] OpenFileManager:269 - Change cursor
+2019-07-19 19:12:24,903 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC12outputFreq_Value)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (ADC34outputFreq_Value)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C1Freq_Value)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C2Freq_Value)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2C3Freq_Value)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (MCO2PinFreq_Value) has invalid value (168000000)
+2019-07-19 19:12:24,904 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (MCOFreq_Value)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMCOFreq_Value)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PLLMUL)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (PRESCALERUSB)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (SYSCLKSourceVirtual)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM15Freq_Value)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM16Freq_Value)
+2019-07-19 19:12:24,905 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM17Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM1Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM20Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM2Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM3Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM8Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART4Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (UART5Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART1Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART2Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USART3Freq_Value)
+2019-07-19 19:12:24,906 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (USBFreq_Value)
+2019-07-19 19:12:24,907 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOOutput2Freq_Value)
+2019-07-19 19:12:25,200 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 343911392 Bytes (687865856)
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.2.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 5.2.1
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.3.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.1.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 3.4.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-07-19 19:12:25,214 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-07-19 19:12:25,215 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-07-19 19:12:25,324 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-07-19 19:12:25,326 [INFO] PinOutPanel:1367 - setPackage(STM32F429ZITx,LQFP144)
+2019-07-19 19:12:25,540 [INFO] UtilMem:74 - Before build in PCC Used Memory: 454859976 Bytes (687865856)
+2019-07-19 19:12:25,629 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/Roland/.stm32cubemx/plugins/power
+2019-07-19 19:12:25,629 [INFO] UtilMem:74 - After build in PCC Used Memory: 462200008 Bytes (687865856)
+2019-07-19 19:12:25,634 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,634 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,637 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,638 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,639 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,640 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,642 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,643 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-07-19 19:12:25,645 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:25,652 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,653 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,654 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,656 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,657 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,658 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,670 [INFO] OpenFileManager:289 - Restore cursor
+2019-07-19 19:12:25,674 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,675 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,676 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,677 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,678 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,679 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,752 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:25,760 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,761 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,761 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,762 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,763 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:12:25,764 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:12:25,776 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:12:35,324 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-07-19 19:13:16,763 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 365206720 Bytes (687865856)
+2019-07-19 19:13:16,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:13:16,766 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:13:16,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:13:16,768 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:13:16,768 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-07-19 19:13:16,769 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-07-19 19:13:16,892 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_DEVICE
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: GFXSimulator
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RCC
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USB_OTG_FS
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-07-19 19:13:16,893 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: ETH
+2019-07-19 19:13:16,895 [INFO] CodeGenerator:583 - code generatio: config db path: C:\ST\STM32CubeIDE_1.0.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.3.0.201907110903\\db\
+2019-07-19 19:13:17,039 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp_save
+2019-07-19 19:13:17,090 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\license.tmp
+2019-07-19 19:13:17,130 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\gpio.c_save
+2019-07-19 19:13:17,192 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\gpio.c
+2019-07-19 19:13:17,202 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\gpio.h_save
+2019-07-19 19:13:17,259 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\gpio.h
+2019-07-19 19:13:17,264 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 19:13:17,293 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2019-07-19 19:13:17,341 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_vars.tmp
+2019-07-19 19:13:17,348 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2019-07-19 19:13:17,398 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_inc.tmp
+2019-07-19 19:13:17,406 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2019-07-19 19:13:17,469 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2019-07-19 19:13:17,477 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2019-07-19 19:13:17,541 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\usb_otg_fs_Msp.tmp
+2019-07-19 19:13:17,711 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 19:13:17,712 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for ETH
+2019-07-19 19:13:17,713 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 19:13:17,722 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\eth.c_save
+2019-07-19 19:13:17,806 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\eth.c
+2019-07-19 19:13:17,817 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\eth.h_save
+2019-07-19 19:13:17,877 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\eth.h
+2019-07-19 19:13:17,882 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 19:13:17,883 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-07-19 19:13:17,883 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 19:13:17,884 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 19:13:17,885 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-07-19 19:13:17,885 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 19:13:17,895 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usart.c_save
+2019-07-19 19:13:17,999 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usart.c
+2019-07-19 19:13:18,012 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usart.h_save
+2019-07-19 19:13:18,076 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usart.h
+2019-07-19 19:13:18,081 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-07-19 19:13:18,087 [INFO] ApiDbMcu:444 - Load IP Config File for USB_DEVICE
+2019-07-19 19:13:18,099 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-07-19 19:13:18,112 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usb_device.c_save
+2019-07-19 19:13:18,181 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usb_device.c
+2019-07-19 19:13:18,190 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usb_device.h_save
+2019-07-19 19:13:18,250 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usb_device.h
+2019-07-19 19:13:18,261 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_conf.h_save
+2019-07-19 19:13:18,321 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_conf.h
+2019-07-19 19:13:18,332 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_conf.c_save
+2019-07-19 19:13:18,411 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_conf.c
+2019-07-19 19:13:18,424 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_desc.h_save
+2019-07-19 19:13:18,489 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\usbd_desc.h
+2019-07-19 19:13:18,502 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_desc.c_save
+2019-07-19 19:13:18,570 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\usbd_desc.c
+2019-07-19 19:13:18,575 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-07-19 19:13:18,575 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-07-19 19:13:18,584 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c_save
+2019-07-19 19:13:18,662 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_it.c
+2019-07-19 19:13:18,673 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h_save
+2019-07-19 19:13:18,789 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_it.h
+2019-07-19 19:13:18,816 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c_save
+2019-07-19 19:13:18,896 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\stm32f4xx_hal_msp.c
+2019-07-19 19:13:18,907 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp_save
+2019-07-19 19:13:18,959 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\MXTmpFiles\system.tmp
+2019-07-19 19:13:18,971 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h_save
+2019-07-19 19:13:19,034 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\stm32f4xx_hal_conf.h
+2019-07-19 19:13:19,054 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h_save
+2019-07-19 19:13:19,118 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Inc\main.h
+2019-07-19 19:13:19,131 [INFO] CodeEngine:190 - oldGeneratedFile, C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c_save
+2019-07-19 19:13:19,208 [INFO] CodeEngine:208 - Generated code: C:\Users\Roland\source\STM32CubeIDE\STM32F439\STM32F439_HID_Keyboard\Src\main.c
+2019-07-19 19:13:19,901 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 307mS.
+2019-07-19 19:13:19,904 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-07-19 19:13:20,088 [INFO] ConfigFileManager:879 - The Die is : DIE419
+2019-07-19 19:13:20,093 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-07-19 19:13:20,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="192"
+2019-07-19 19:13:20,174 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="CCMRAM" access="rw" start="0x10000000" size="64"
+2019-07-19 19:13:20,175 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="2048"
+2019-07-19 19:13:20,590 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-07-19 19:13:20,591 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-07-19 19:13:24,677 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 4773mS.
+2019-07-19 19:13:24,678 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-07-19 19:13:24,686 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
