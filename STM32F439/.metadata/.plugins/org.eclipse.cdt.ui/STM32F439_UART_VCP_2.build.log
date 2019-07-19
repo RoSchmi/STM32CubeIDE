@@ -1,0 +1,10 @@
+17:09:42 **** Incremental Build of configuration Debug for project STM32F439_UART_VCP_2 ****
+make -j4 all 
+arm-none-eabi-size   STM32F439_UART_VCP_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32636	    488	   4896	  38020	   9484	STM32F439_UART_VCP_2.elf
+Finished building: default.size.stdout
+ 
+
+17:09:44 Build Finished. 0 errors, 0 warnings. (took 1s.670ms)
+
